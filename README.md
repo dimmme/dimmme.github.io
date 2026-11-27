@@ -5,3 +5,5 @@
 - `index.html` — все экраны, навигация и переходы
 - `I/` — изображения (WebP)
 - `fonts/` — шрифты
+
+Адрес: https://dimmme.github.io/https-dimmme.github.io/
